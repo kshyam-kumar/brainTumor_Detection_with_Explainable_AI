@@ -1,4 +1,4 @@
-Here's a detailed README file for your **Brain Tumor Detection with Explainable AI** project:
+
 
 ---
 
@@ -63,7 +63,7 @@ git clone https://github.com/kshyam-kumar/brainTumor_Detection_with_Explainable_
 
 1. Navigate to the frontend directory:
    ```bash
-   cd Gradcam/flask-react-app/frontend
+   cd flask-react-app/frontend
    ```
 
 2. Install the necessary dependencies:
@@ -85,8 +85,8 @@ git clone https://github.com/kshyam-kumar/brainTumor_Detection_with_Explainable_
 
 2. Start the Flask server to handle model predictions and visual explainability:
    ```bash
-   cd Gradcam/flask-react-app/backend
-   flask run
+   cd flask-react-app/backend
+   python app.py
    ```
 
 ## Usage
@@ -124,13 +124,9 @@ This project implements three powerful explainability techniques:
 3. **Canny Edge Detection**:
    - Detects and outlines the edges of the tumor, making the model's prediction more interpretable.
 
-## License
+## Interface ScreenShots
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contributors
-
-- [Your Name]
+![image](https://github.com/user-attachments/assets/4ac61e79-48fe-47b3-9f23-651fc66f32cf)
 
 ## Acknowledgments
 
@@ -138,4 +134,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-This README provides a clear structure for your project, making it easier for users to understand its features, installation process, and model architecture. You can adjust the content to suit any additional details you want to provide.
